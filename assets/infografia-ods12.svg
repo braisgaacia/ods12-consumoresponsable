@@ -1,0 +1,17 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='1600' viewBox='0 0 1200 1600'>
+<rect width='1200' height='1600' fill='#ffffff'/>
+<rect x='60' y='60' width='1080' height='220' rx='24' fill='#BF8B2E'/>
+<text x='120' y='165' font-family='Arial' font-size='74' fill='white' font-weight='700'>Infografía ODS 12</text>
+<text x='120' y='230' font-family='Arial' font-size='36' fill='white'>Producción y consumo responsables</text>
+<rect x='100' y='340' width='1000' height='260' rx='20' fill='#eef7ea' stroke='#66bb6a' stroke-width='8'/>
+<text x='140' y='430' font-family='Arial' font-size='44' fill='#14532d' font-weight='700'>1. Reducir desperdicio de alimentos</text>
+<text x='140' y='500' font-family='Arial' font-size='34' fill='#14532d'>Planificar compras • conservar mejor • aprovechar sobras</text>
+<rect x='100' y='660' width='1000' height='260' rx='20' fill='#eef7ea' stroke='#66bb6a' stroke-width='8'/>
+<text x='140' y='750' font-family='Arial' font-size='44' fill='#14532d' font-weight='700'>2. Impulsar economía circular</text>
+<text x='140' y='820' font-family='Arial' font-size='34' fill='#14532d'>Reparar • reutilizar • reciclar • rediseñar productos</text>
+<rect x='100' y='980' width='1000' height='260' rx='20' fill='#eef7ea' stroke='#66bb6a' stroke-width='8'/>
+<text x='140' y='1070' font-family='Arial' font-size='44' fill='#14532d' font-weight='700'>3. Elegir consumo consciente</text>
+<text x='140' y='1140' font-family='Arial' font-size='34' fill='#14532d'>Comprar local y durable • evitar plásticos de un solo uso</text>
+<rect x='100' y='1300' width='1000' height='200' rx='20' fill='#2e7d32'/>
+<text x='140' y='1410' font-family='Arial' font-size='42' fill='white' font-weight='700'>Meta 2030: vivir mejor con menor impacto ambiental</text>
+</svg>

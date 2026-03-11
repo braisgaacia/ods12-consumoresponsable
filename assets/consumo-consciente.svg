@@ -1,0 +1,12 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='700' viewBox='0 0 1200 700'>
+<rect width='1200' height='700' fill='#eef7ea'/>
+<rect x='120' y='120' width='300' height='360' rx='24' fill='#2e7d32'/>
+<text x='165' y='210' font-family='Arial' font-size='42' fill='white' font-weight='700'>Comprar</text>
+<text x='175' y='262' font-family='Arial' font-size='42' fill='white' font-weight='700'>mejor</text>
+<rect x='470' y='160' width='260' height='260' rx='130' fill='#66bb6a'/>
+<text x='520' y='305' font-family='Arial' font-size='58' fill='white'>♻</text>
+<rect x='790' y='120' width='300' height='360' rx='24' fill='#1b5e20'/>
+<text x='830' y='230' font-family='Arial' font-size='42' fill='white' font-weight='700'>Reusar</text>
+<text x='820' y='282' font-family='Arial' font-size='42' fill='white' font-weight='700'>reciclar</text>
+<text x='180' y='590' font-family='Arial' font-size='44' fill='#14532d' font-weight='700'>Consumo responsable en casa y en comunidad</text>
+</svg>

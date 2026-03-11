@@ -1,0 +1,14 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='700' viewBox='0 0 1200 700'>
+<rect width='1200' height='700' fill='#f6fbf3'/>
+<circle cx='600' cy='350' r='210' fill='none' stroke='#2e7d32' stroke-width='24'/>
+<polygon points='783,213 870,220 820,289' fill='#2e7d32'/>
+<polygon points='412,487 329,472 382,407' fill='#2e7d32'/>
+<rect x='180' y='120' width='220' height='120' rx='16' fill='#66bb6a'/>
+<text x='222' y='193' font-family='Arial' font-size='34' fill='white' font-weight='700'>Diseño</text>
+<rect x='800' y='120' width='220' height='120' rx='16' fill='#66bb6a'/>
+<text x='840' y='193' font-family='Arial' font-size='34' fill='white' font-weight='700'>Uso</text>
+<rect x='800' y='460' width='220' height='120' rx='16' fill='#66bb6a'/>
+<text x='822' y='533' font-family='Arial' font-size='34' fill='white' font-weight='700'>Reuso</text>
+<rect x='180' y='460' width='220' height='120' rx='16' fill='#66bb6a'/>
+<text x='205' y='533' font-family='Arial' font-size='34' fill='white' font-weight='700'>Reciclaje</text>
+</svg>

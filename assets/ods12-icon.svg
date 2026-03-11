@@ -1,0 +1,10 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='675' viewBox='0 0 1200 675'>
+<rect width='1200' height='675' fill='#BF8B2E'/>
+<rect x='60' y='60' width='1080' height='555' rx='24' fill='#fff' opacity='0.16'/>
+<text x='90' y='210' font-family='Arial' font-size='130' fill='white' font-weight='700'>ODS 12</text>
+<text x='90' y='300' font-family='Arial' font-size='46' fill='white'>Producción y consumo</text>
+<text x='90' y='360' font-family='Arial' font-size='46' fill='white'>responsables</text>
+<circle cx='910' cy='305' r='150' fill='none' stroke='white' stroke-width='28'/>
+<path d='M910 155 A150 150 0 0 1 1040 230' fill='none' stroke='white' stroke-width='28'/>
+<polygon points='1030,184 1108,190 1060,252' fill='white'/>
+</svg>
